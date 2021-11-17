@@ -1,0 +1,4 @@
+1. Run Split train-test-validation
+2. Run Preprocess
+3. Run Train 
+4. Run Test
