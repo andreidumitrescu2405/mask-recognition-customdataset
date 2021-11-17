@@ -16,9 +16,9 @@ if __name__ == "__main__":
 
     # Create an experiment with your api key
     experiment = Experiment(
-    api_key="AEieUslWZezS1n4bMfAYu1tWs",
-    project_name="maskrecognitionproject",
-    workspace="andrey2405",
+    api_key="",
+    project_name="",
+    workspace="",
     )
     
     # For reproductibility
